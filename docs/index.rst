@@ -30,8 +30,8 @@ SRS of data visualization website based on d3.js
 - `6 潜在的改进空间`_
 - `7 待确定问题`_
 
-.. _fig1:
-.. figure:: /img/1.png
+|img|
+.. |img| image:: https://github.com/shijyuen/readthedocs/blob/master/img/1.png
 
 ***************
 引言
