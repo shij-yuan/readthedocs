@@ -31,9 +31,9 @@ SRS of data visualization website based on d3.js
 - `7 待确定问题`_
 
 
-------
+
 更新日志
-------
+
 |img|
 
 .. |img| image:: https://github.com/shijyuen/readthedocs/blob/master/img/1.png
