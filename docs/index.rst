@@ -112,7 +112,8 @@ SRS of data visualization website based on d3.js
 
 本网站是一个为生物科研人员设计的，用于分析两组基因（g1, g2）相关系数的网页系统。用户将实验获得的三个json数据文件导入网站，经过网站后台处理，给出一张关于两组基因的二维散点图。该散点图将直观地展示两组不同颜色的基因在坐标轴上的分布。科研人员可以根据网页给出的散点图结果确定基因的相关系数，并进行下一步的研究。
 
----------
+
+
 网页样例
 
 |img|
@@ -120,7 +121,7 @@ SRS of data visualization website based on d3.js
 .. |img| image:: https://github.com/shijyuen/readthedocs/blob/master/img/Jietu20190327-202309.jpg
 
 
----------
+
 
 1.3 用户特征
 ==========
