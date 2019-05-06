@@ -4,7 +4,15 @@
 **************************
 SRS of data visualization website based on d3.js
 **************************
-	本文网址：https://github.com/shijyuen/readthedocs/blob/master/docs/index.rst
+
+:Auther:
+    袁世家
+
+:StudentNumber:
+    201739230123
+
+:Email:
+    yuanshij@qq.com
 
 ***************
 目录
@@ -95,7 +103,7 @@ SRS of data visualization website based on d3.js
 1.1.2 项目环境介绍
 ----------------
 
-- 本网站在内测阶段将在本地服务器运行，后期可申请域名网站，开放使用。届时，本网站的运行环境需求有：
+- 本网站在内测阶段将在本地服务器运行，后期可申请域名网站，开放使用。本网站需要的计算机运行配置需求有：
 
 1. 至少 500mb 的运行内存
 
@@ -105,9 +113,9 @@ SRS of data visualization website based on d3.js
 
 4. 可以链接互联网的计算机
 
-5. 支持较新的javascript, d3 的浏览器
+5. 支持较新javascript的浏览器
 
-- 本网站将会使用开源项目d3js，这是一个javascript的可视化集成dom。
+- 本网站将会使用开源项目d3.js，这是一个基于JavaScript 的函数库。
 
 1.2 网站功能
 ==========
@@ -122,7 +130,9 @@ SRS of data visualization website based on d3.js
 
 .. |img| image:: https://github.com/shijyuen/readthedocs/blob/master/img/Jietu20190327-202309.jpg
 
+.. note::
 
+	具体效果以成品为准。
 
 1.3 用户特征
 ==========
