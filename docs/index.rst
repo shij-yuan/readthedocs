@@ -52,10 +52,14 @@ SRS of data visualization website based on d3.js
 .. note::
 
 	2019年5月1日更新：
-	1. 如果g1.json或g2.json中没有对应的info.json，那么相应的点以浅灰色绘制。
-	2. 在缺少文件info.json的情况下，绘制浅灰色的点，而不是什么都不显示。
-	3. 计算点的相关性系数和显著性检验（p-value）。
+	1. 如果g1.json或g2.json中没有对应的info.json，那么相应的点以浅灰色绘制；
+	
+	2. 在缺少文件info.json的情况下，绘制浅灰色的点，而不是什么都不显示；
+	
+	3. 计算点的相关性系数和显著性检验（p-value）；
+	
 	4. 显示原点（0，0）。
+	
 
 
 ***************
